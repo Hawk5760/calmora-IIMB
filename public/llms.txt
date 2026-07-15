@@ -1,0 +1,21 @@
+# Calmora
+
+> Calmora is an AI-powered mental wellness companion offering on-device mood detection, guided journaling, mindfulness exercises, CBT tools, a Soul Garden, and 24/7 crisis support. It is a wellness tool, not a medical service.
+
+## Pages
+
+- [Home](/): Overview of Calmora and its wellness features.
+- [Features](/features): Full list of mood, journaling, mindfulness, and community tools.
+- [Pricing](/pricing): Free and Premium plans (₹99/mo or ₹899/yr).
+- [Mood Detector](/mood): On-device facial expression mood detection with Mindo chat support.
+- [Guided Journaling](/journal): Mood-aware journal prompts and minimalist editor.
+- [Mindfulness](/mindfulness): Guided breathing and grounding exercises.
+- [Self-Help Library](/self-help): Audio-narrated modules for anxiety, stress, sleep, and resilience.
+- [Mind Puzzle](/sounds): Memory match puzzle with focus and stress analysis.
+- [Crisis Support](/crisis-support): Verified Indian helplines and emergency resources.
+- [Contact](/contact): Reach the Calmora team.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
